@@ -37,9 +37,9 @@ The project was developed individually with AI assistance and special permission
 |---|---|
 | Student Name | Moshe Ben Shabat |
 | Student ID | [FILL IN - PRIVATE SUBMISSION ONLY] |
-| Academic Email | [FILL IN] |
+| Academic Email | [moshe.ben.shabat@e.braude.ac.il |
 | Group Number | GXX (Temporary) |
-| GitHub Repository | [ADD GITHUB LINK LATER] |
+| GitHub Repository | [https://github.com/Moshe118/JDBC_FlightManager |
 | Submission ZIP | GXX_Ex3.zip |
 
 The project was developed individually by Moshe Ben Shabat, with AI assistance through ChatGPT and special approval from the course instructor.
